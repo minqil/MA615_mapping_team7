@@ -1,3 +1,6 @@
+# Team Member
+Minqi Li, Zhiwei Liang, Rong Li
+
 # mapping_assignment
 
 Reproduce the Floyd-1999 and Allison-2001 hurricane maps from the hurricaneexposure package using more
